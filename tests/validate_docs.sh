@@ -46,7 +46,7 @@ for link in $required_readme_links; do
 done
 
 required_doc_terms="
-中科软
+XXX科技
 数据结构
 后台管理
 前台设计
@@ -62,4 +62,3 @@ for term in $required_doc_terms; do
 done
 
 echo "Documentation scaffold validation passed."
-
